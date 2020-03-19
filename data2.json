@@ -1,0 +1,57 @@
+[
+    {
+        "LastName": "Ivanov1",
+        "FirstName": "Ivan",
+        "PatronynicName": "Ivanovich",
+        "Group": "Gr1",
+        "Marks": {
+            "eng": 4,
+            "math": 4,
+            "rus": 4
+        }
+    },
+    {
+        "LastName": "Petrov",
+        "FirstName": "Petr",
+        "PatronynicName": "Petrovich",
+        "Group": "Gr2",
+        "Marks": {
+            "eng": 5,
+            "math": 5,
+            "rus": 5
+        }
+    },
+    {
+        "LastName": "Vasiliev",
+        "FirstName": "Vasili",
+        "PatronynicName": "Vasilievich",
+        "Group": "Gr3",
+        "Marks": {
+            "eng": 2,
+            "math": 4,
+            "rus": 5
+        }
+    },
+    {
+        "LastName": "Stud1",
+        "FirstName": "Stud1",
+        "PatronynicName": "Stud1",
+        "Group": "Gr1",
+        "Marks": {
+            "math": 5,
+            "eng": 5,
+            "rus": 5
+        }
+    },
+    {
+        "LastName": "Konstantinov",
+        "FirstName": "Konstant1n",
+        "PatronynicName": "Konstantinovich",
+        "Group": "Gr9",
+        "Marks": {
+            "math": 2,
+            "eng": 4,
+            "rus": 4
+        }
+    }
+]
